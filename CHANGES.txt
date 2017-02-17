@@ -1,6 +1,11 @@
 CHANGES
 *******
 
+2.5.0.dev0 (unreleased)
+=======================
+
+- Update chartjs to version 2.5.0
+
 2.3.0.dev0 (unreleased)
 =======================
 
